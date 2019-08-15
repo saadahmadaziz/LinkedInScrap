@@ -1,0 +1,14 @@
+{
+  "email": "",
+  "password": "",
+  "relatedProfilesKeywords": ["saad-ahmad"],
+  "maxConcurrentCrawlers": 2,
+  "profileLoadWaitTime": 5000,
+  "saveDirectory": "./crawledProfiles",
+  "puppeteerArgs": { "args": ["--no-sandbox"] },
+  "isHeadless": true,
+  "hasToLog": true,
+  "proxyAddress": null,
+  "rootProfiles": [
+
+"https://www.linkedin.com/in/saad-ahmad","https://www.linkedin.com/in/saad-ahmad1"]}
